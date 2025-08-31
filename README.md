@@ -31,7 +31,10 @@ The project includes the following tables:
 ---
 
  🗂️ ER Diagram
-<img src="/Entity_Relationship Diagram.png" alt="Entity_Relationship Diagram">
+
+
+ 
+<img src="/Entity_Relationship Diagram.PNG" alt="Entity_Relationship Diagram">
 
 ```mermaid
 erDiagram
@@ -123,7 +126,7 @@ WHERE RNK = 1;
  👨‍💻 Author
 
 Developed by Arka Bhowmik
-💼 Connect on [LinkedIn]([https://www.linkedin.co](https://www.linkedin.com/in/arka-bhowmik-a721a619a/))
+💼 Connect on [LinkedIn](https://www.linkedin.co](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
 
 ---
 
