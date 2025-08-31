@@ -127,5 +127,10 @@ WHERE RNK = 1;
 
 Developed by Arka Bhowmik
 
-💼 Connect on [LinkedIn][Arka Bhowmik](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
+💼 Connect on <div id="badges">
+  <a href="https://www.linkedin.com/in/arka-bhowmik-a721a619a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+
 ---
