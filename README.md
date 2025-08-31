@@ -126,8 +126,7 @@ WHERE RNK = 1;
  👨‍💻 Author
 
 Developed by Arka Bhowmik
-💼 Connect on [LinkedIn](https://www.linkedin.co](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
-
+💼 Connect on [LinkedIn][Arka Bhowmik](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
 ---
 
 👉 Would you like me to also prepare sample `insert_data.sql` (dummy restaurants, customers, menus, orders, reviews, drivers) so recruiters can directly run your project without manually inserting data?
