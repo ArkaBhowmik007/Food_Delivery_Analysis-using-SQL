@@ -1,7 +1,5 @@
-# Food_Delivery_Analysis-using-SQL
+# 🍽️ Hunger Express – Food Delivery Database
 <img src="/Hunger_Express.jpg" alt="Hunger_Express/">
-🍽️ Hunger Express – Food Delivery Database
-
  📌 Project Overview
 
 Hunger Express is a relational database project that simulates a real-world food delivery system (similar to Swiggy/Zomato).
@@ -33,6 +31,7 @@ The project includes the following tables:
 ---
 
  🗂️ ER Diagram
+<img src="/Entity_Relationship Diagram.png" alt="Entity_Relationship Diagram">
 
 ```mermaid
 erDiagram
